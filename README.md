@@ -16,6 +16,8 @@ Here are some ideas to get you started:-->
 
 [![NRZero1's github stats](https://github-readme-stats.vercel.app/api?username=NRZero1&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/NRZero1/NRZero1)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple)](https://github.com/NRZero1/NRZero1)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/NRZero1/NRZero1)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NRZero1&theme=midnight-purple)](https://github.com/NRZero1/NRZero1)
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=NRZero1" />
+</a>
