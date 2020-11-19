@@ -18,6 +18,6 @@ Here are some ideas to get you started:-->
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8)](https://github.com/NRZero1/NRZero1)
 
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=NRZero1" />
+<a href="https://github.com/NRZero1/NRZero1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NRZero1a&repo=NRZero1" />
 </a>
