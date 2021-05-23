@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 <!--- 💬 Ask me about ...-->
 
 <hr>
-### Contact Person
+<h3>Contact Person</h3>
 
 <div>
  <a href="mailto:ronaldo.pangestu1@gmail.com">
