@@ -17,19 +17,19 @@ Here are some ideas to get you started:-->
 <!--- 💬 Ask me about ...-->
 
 <hr>
-##Contact Person
+###Contact Person
 
 <div>
  <a href="mailto:ronaldo.pangestu1@gmail.com">
-  <img src="https://img.icons8.com/fluent/2x/secured-letter.png" width="52" height="52">
+  <img src="https://img.icons8.com/fluent/2x/secured-letter.png" width="128" height="128">
  </a>
  
  <a href="https://www.linkedin.com/in/daniel-ronaldo-pangestu/">
-  <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="52" height="52">
+  <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="128" height="128">
  </a>
  
  <a href="https://discordapp.com/users/312428560155672588">
-  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="52" height="52">
+  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="128" height="128">
  </a>
 </div>
 
