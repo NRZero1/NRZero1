@@ -6,8 +6,11 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently suffering from too many projects.
+
 - 🌱 I’m currently chasing my dream to become a software engineer and story writer to **redacted** (confidential, sorry).
+
 - 🤔 Is sleep deprivation a norm for programmers?
+
 - 🙏 May Covid end ASAP.
 <!--- 🤔 I’m looking for help with my sleep deprivation because of my projects.-->
 <!--- 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.-->
