@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
  </a>
  
  <a href="https://discordapp.com/users/312428560155672588">
-  <img src="https://img.icons8.com/fluent/2x/discord-logo.png>
+  <img src="https://img.icons8.com/fluent/2x/discord-logo.png">
  </a>
 </div>
 
