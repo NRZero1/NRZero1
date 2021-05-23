@@ -21,11 +21,11 @@ Here are some ideas to get you started:-->
 
 <div>
  <a href="mailto:ronaldo.pangestu1@gmail.com">
-  <img src="https://img.icons8.com/fluent/2x/secured-letter.png" width="100" height="100">
+  <img src="https://img.icons8.com/fluent/2x/secured-letter.png">
  </a>
  
  <a href="https://www.linkedin.com/in/daniel-ronaldo-pangestu/">
-  <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="100" height="100">
+  <img src="https://img.icons8.com/fluent/2x/linkedin.png">
  </a>
  
  <a href="https://discordapp.com/users/312428560155672588">
