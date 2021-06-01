@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently suffering from too many projects.
 
-- 🌱 I’m currently chasing my dream to become a software engineer and story writer to **redacted** (confidential, sorry).
+- 🌱 I’m currently chasing my dream to become a software engineer and story writer to **redacted** (its private, sorry).
 
 - 🤔 Is sleep deprivation a norm for programmers?
 
