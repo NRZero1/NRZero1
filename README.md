@@ -46,5 +46,4 @@ Here are some ideas to get you started:-->
  <a hre="https://github.com/NRZero1/NRZero1">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true">
  </a>
-
- </div>
+</div>
