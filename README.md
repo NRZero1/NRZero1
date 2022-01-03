@@ -5,11 +5,14 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently suffering from too many projects.
+<!--- 🔭 Suffering from too many projects. -->
+- 🙂 When project is finished
 
 - 🌱 Becoming a software engineer and story writer is one of my dream.
 
 - 🤔 Is sleep deprivation a norm for programmers?
+
+- 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.
 
 - 🙏 May Covid end ASAP.
 <!--- 🤔 I’m looking for help with my sleep deprivation because of my projects.-->
