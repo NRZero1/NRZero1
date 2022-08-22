@@ -25,9 +25,6 @@ Here are some ideas to get you started:-->
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 💬 Ask me about ...-->
 
-## My current activities
-
-
 <hr>
 <h3>Contact Person</h3>
 
@@ -47,12 +44,9 @@ Here are some ideas to get you started:-->
 
 <hr>
 
-<div>
- <a href="https://github.com/NRZero1/NRZero1">
-  <img src="https://github-readme-stats.vercel.app/api?username=NRZero1&count_private=true&show_icons=true&theme=great-gatsby">
- </a>
-
- <a hre="https://github.com/NRZero1/NRZero1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,html,css,hack">
- </a>
+<div align="center">
+  
+  | <a href="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats.vercel.app/api?username=NRZero1&count_private=true&show_icons=true&theme=great-gatsby"></a> | <a hre="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,html,css,hack"></a> |
+| ------------- | ------------- |
+  
 </div>
