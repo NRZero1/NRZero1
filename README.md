@@ -1,11 +1,13 @@
-### Yahallo 👋
+# Hello 👋
 
+I'm NRZero, currently working as freelance full-stack developer. I like to read LN, VN or Manga and in the middle of chasing my dream to become a Software Engineer, Story Writer, and Game Creator. Feel free to talk to me. 👋
 <!--
 **NRZero1/NRZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
 <!--- 🔭 Suffering from too many projects. -->
+<!--
 - 🙂 When project is finished
 
 - 🌱 Becoming a software engineer and story writer is one of my dream.
@@ -15,12 +17,16 @@ Here are some ideas to get you started:-->
 - 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.
 
 - 🙏 May Covid end ASAP.
+-->
 <!--- 🤔 I’m looking for help with my sleep deprivation because of my projects.-->
 <!--- 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.-->
 <!--- ⚡ Fun fact: my prefered nickname is NRZero, but GitHub won't permit me, so i add the number 1 (one) just for formality-->
 
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 💬 Ask me about ...-->
+
+## My current activities
+
 
 <hr>
 <h3>Contact Person</h3>
@@ -47,6 +53,6 @@ Here are some ideas to get you started:-->
  </a>
 
  <a hre="https://github.com/NRZero1/NRZero1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,rich text format, html, css, hack">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,html,css,hack">
  </a>
 </div>
