@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm NRZero, currently working as freelance full-stack developer. I like to read LN, VN or Manga and in the middle of chasing my dream to become a Software Engineer, Story Writer, and Game Creator. Feel free to talk to me. 👋
+I'm NRZero, a guy with love and hate relationship with programming. Currently working as freelance full-stack developer. I like to read LN, VN or Manga and in the middle of chasing my dream to become a Software Engineer, Story Writer, and Game Creator. Feel free to talk to me. 👋
 <!--
 **NRZero1/NRZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
