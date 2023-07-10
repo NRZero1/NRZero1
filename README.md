@@ -1,29 +1,13 @@
-# Hello 👋
+### Hi there, I'm Daniel Ronaldo Pangestu a.k.a NRZero 👋
 
-I'm NRZero, a guy with love and hate relationship with programming. Currently working as freelance full-stack developer. I like to read LN, VN or Manga and in the middle of chasing my dream to become a Software Engineer, Story Writer, and Game Creator. Feel free to talk to me. 👋
-<!--
-**NRZero1/NRZero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring software engineer. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime. Feel free to talk to me. 👋
 
-Here are some ideas to get you started:-->
-
-<!--- 🔭 Suffering from too many projects. -->
-<!--
-- 🙂 When project is finished
-
-- 🌱 Becoming a software engineer and story writer is one of my dream.
-
-- 🤔 Is sleep deprivation a norm for programmers?
-
-- 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.
-
-- 🙏 May Covid end ASAP.
--->
-<!--- 🤔 I’m looking for help with my sleep deprivation because of my projects.-->
-<!--- 📫 You can contact me by email: ronaldo.pangestu1@gmail.com or from my LinkedIn profile.-->
-<!--- ⚡ Fun fact: my prefered nickname is NRZero, but GitHub won't permit me, so i add the number 1 (one) just for formality-->
-
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 💬 Ask me about ...-->
+- 🔭 I'm continuously improving my skills
+- 🌱 I'm currently working on probably one of my biggest project in my life in my free time
+- 👐 I haven't open the project to public yet but I'm planning to make it open source
+- 👯 If you want to collaborate I'm open about it (when I open it to public of course)
+- 📫 You can contact me via one of these social media icon below (you can click on it)
+- ⚡ Fun fact: my prefered nickname is NRZero, but GitHub won't permit me, so i add the number 1 (one) just for formality
 
 <hr>
 <h3>Contact Person</h3>
