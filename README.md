@@ -30,7 +30,7 @@ An aspiring software engineer. I like to read books especially LN or Manga. I li
 
 <div align="center">
   
-  | <a href="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats-nrzero1.vercel.app/api?username=NRZero1&count_private=true&show_icons=true&theme=great-gatsby"></a> | <a href="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats-nrzero1.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,html,css,hack"></a> |
+  | <a href="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats-nrzero.vercel.app/api?username=NRZero1&count_private=true&show_icons=true&theme=great-gatsby"></a> | <a href="https://github.com/NRZero1/NRZero1"><img src="https://github-readme-stats-nrzero.vercel.app/api/top-langs/?username=NRZero1&layout=compact&theme=midnight-purple&langs_count=8&count_private=true&hide=shaderlab,hlsl,glsl,html,css,hack"></a> |
 | ------------- | ------------- |
   
 </div>
