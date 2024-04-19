@@ -1,10 +1,10 @@
 ### Hi there, I'm Daniel Ronaldo Pangestu a.k.a NRZero 👋
 
-An aspiring software engineer. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime. Feel free to talk to me. 👋
+An aspiring software engineer. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime. Currently recovering after almost 2 years couldn't fully work on improving my skills, taking jobs, and chasing my dream because one of my family member sick and recently died. Feel free to talk to me. 👋
 
-- 🔭 I'm continuously improving my skills
-- 🌱 I'm currently working on probably one of my biggest project in my life in my free time
-- 👐 I haven't open the project to public yet but I'm planning to make it open source
+- 🔭 I'm like to keep improving my skills
+- 🌱 I'm currently working my hardest to achieve my dream
+- 👐 I have one really big project I'm currently work on slowly
 - 👯 If you want to collaborate I'm open about it (when I open it to public of course)
 - 📫 You can contact me via one of these social media icon below (you can click on it)
 - ⚡ Fun fact: my prefered nickname is NRZero, but GitHub won't permit me, so i add the number 1 (one) just for formality
