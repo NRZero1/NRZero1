@@ -4,7 +4,7 @@ An aspiring software engineer. I like to read books especially LN or Manga. I li
 
 Currently recovering after almost 2 years couldn't fully work on improving my skills, taking jobs, and chasing my dream because one of my family member sick and recently died. Feel free to talk to me. 👋
 
-- 🔭 I'm like to keep improving my skills
+- 🔭 I like to keep improving my skills
 - 🌱 I'm currently working my hardest to achieve my dream
 - 👐 I have one really big project I'm currently work on slowly
 - 👯 If you want to collaborate I'm open about it (when I open it to public of course)
