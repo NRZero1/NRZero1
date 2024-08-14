@@ -1,8 +1,8 @@
 ### Hi there, I'm Daniel Ronaldo Pangestu a.k.a NRZero 👋
 
-An aspiring software engineer. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
+A software engineer, proficient in Backend. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
 
-Currently recovering after almost 2 years couldn't fully work on improving my skills, taking jobs, and chasing my dream because one of my family member sick and recently died. Feel free to talk to me. 👋
+In recover progress after almost 2 years couldn't fully work on improving my skills, taking jobs, and chasing my dream because one of my family member sick and recently died. Feel free to talk to me. 👋
 
 - 🔭 I like to keep improving my skills
 - 🌱 I'm currently working my hardest to achieve my dream
