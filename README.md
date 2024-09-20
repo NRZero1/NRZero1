@@ -2,8 +2,6 @@
 
 A software engineer, proficient in Backend. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
 
-In recover progress after almost 2 years couldn't fully work on improving my skills, taking jobs, and chasing my dream because one of my family member sick and recently died. Feel free to talk to me. 👋
-
 - 🔭 I like to keep improving my skills
 - 🌱 I'm currently working my hardest to achieve my dream
 - 👐 I have one really big project I'm currently work on slowly
