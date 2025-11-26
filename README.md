@@ -1,6 +1,6 @@
-### Hi there, I'm Daniel Ronaldo Pangestu a.k.a NRZero 👋
+### Hi there, I'm NRZero 👋
 
-A software engineer, proficient in Backend. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
+A software engineer, like Backend more but for some reason keep threw to front end. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
 
 - 🔭 I like to keep improving my skills
 - 🌱 I'm currently working my hardest to achieve my dream
@@ -13,16 +13,8 @@ A software engineer, proficient in Backend. I like to read books especially LN o
 <h3>Contact Person</h3>
 
 <div>
- <a href="mailto:ronaldo.pangestu1@gmail.com">
+ <a href="mailto:nrzerozero@gmail.com">
   <img src="https://img.icons8.com/fluent/2x/secured-letter.png" width="64" height="64">
- </a>
- 
- <a href="https://www.linkedin.com/in/daniel-ronaldo-pangestu/">
-  <img src="https://img.icons8.com/fluent/2x/linkedin.png" width="64" height="64">
- </a>
- 
- <a href="https://discordapp.com/users/312428560155672588">
-  <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="64" height="64">
  </a>
 </div>
 
