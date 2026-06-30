@@ -1,13 +1,13 @@
 ### Hi there, I'm NRZero 👋
 
-A software engineer, like Backend more but for some reason keep threw to front end. I like to read books especially LN or Manga. I like playing games too incuding VN. I'm also enjoy watching Anime.
+A software engineer, like backend engineering more but for some reason keep getting thrown to front end engineering. I like to read books, these days I mostly read manhwa though. In the past I like to read LN or Manga but kinda burned out due to hard to find anything good these days and not really having time to do so. I like playing games too incuding VN. I'm also enjoy watching Anime.
 
 - 🔭 I like to keep improving my skills
-- 🌱 I'm currently working my hardest to achieve my dream
-- 👐 I have one really big project I'm currently work on slowly
-- 👯 If you want to collaborate I'm open about it (when I open it to public of course)
+- 🌱 I already achieved one of my dream; becoming software engineer.
+- 👐 I would like to have a product of my own too as my long term project or maybe business for my entire life.
+- 👯 If you want to connect with me I'm open for it. Especially if you want to ask me to join on big or community driven project for my passionate hobbies.
 - 📫 You can contact me via one of these social media icon below (you can click on it)
-- ⚡ Fun fact: my prefered nickname is NRZero, but GitHub won't permit me, so i add the number 1 (one) just for formality
+- ⚡ Fun fact: my prefered nickname is NRZero, but that username already taken 😔.
 
 <hr>
 <h3>Contact Person</h3>
